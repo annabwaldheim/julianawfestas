@@ -284,3 +284,13 @@ h2{
 .cadastro-bottom-item:hover{
     color:#F4ADB3
 }
+
+/* perfil */
+
+#conta-logada{
+    background-color: #F4ADB3;
+    text-decoration: none;
+    font-size: 1rem;
+    color: #FBEBF2;
+    border: 0;
+}
